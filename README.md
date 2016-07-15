@@ -1,7 +1,8 @@
 # CodeMonkey
 
 
-* CodeMonkey is a Dark Theme for Brackets!
+CodeMonkey is a Dark Theme for Brackets!
+It has been optimized for Consolas font on Windows (line-height:140%)
 
 
 # How to install
