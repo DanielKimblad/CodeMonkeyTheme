@@ -4,10 +4,10 @@
     "description": "Dark beautiful theme for Brackets!",
     "version": "0.0.1",
     "author": "Daniel Kimblad",
-    "homepage": "",
+    "homepage": "https://github.com/DanielKimblad/CodeMonkeyTheme",
     "repository": {
         "type": "git",
-        "url": "git@github.com:NyhamnData/CodeMonkey.git"
+        "url": "git@github.com:DanielKimblad/CodeMonkeyTheme.git"
     },
     "license": "MIT",
     "engines": {
