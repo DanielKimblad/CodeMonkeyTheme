@@ -17,12 +17,3 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 * Theme under MIT license [`LICENSE`](LICENSE)
 
-# Screenshot
-
-### HTML
-
-### CSS
-
-### JavaScript
-
-### PHP
